@@ -27,6 +27,7 @@ jobs:
             "zaixiangjian/aurora-worker"
             "zaixiangjian/aurora-backend"
             "zaixiangjian/nezha"
+            "zaixiangjian/nezhav0"
           )
 
           echo "Processing ${#IMAGES[@]} images..."
